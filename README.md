@@ -10,4 +10,4 @@ Jeopardy is a quiz game that challenges players to answer trivia in specific cat
 * Students must give the answer in the form of a question before clicking again. ...
 * To see if a student or group is correct, click again for the answer
 
-## Try your luck and have fun!
+## Try your luck and have fun [HERE](https://oberiin.github.io/Jeopardy-Game/)!
